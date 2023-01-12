@@ -1,6 +1,6 @@
 # SageMakerStudioLab-starter
 
-This project is to help you understand how to use the free AWS Service **Amazon SageMaker Studio Lab**.
+This repo contains artifacts to help you understand how to use the free AWS Service **Amazon SageMaker Studio Lab**.
 
 It contains some Jupyter Notebooks that walk you through some features of this service, and how they compare with Amazon SageMaker itself.
 
