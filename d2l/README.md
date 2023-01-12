@@ -1,4 +1,4 @@
-# How to run 'Dive into Deep Learning' course in Amazon SageMaker Studio Lab
+# How to run the 'Dive into Deep Learning' course in Amazon SageMaker Studio Lab
 
 To run the D2L course, you need to upload these files into your Amazon SageMaker Studio Lab 'Project" (aka Jupyter Lab):
 
