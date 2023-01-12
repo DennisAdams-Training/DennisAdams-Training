@@ -1,0 +1,14 @@
+name: d2l-env
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - pip
+    - pandas
+    - matplotlib
+    - numpy
+    - seaborn
+    - ipykernel
+    - torch
+    - torchvision
+    - d2l
