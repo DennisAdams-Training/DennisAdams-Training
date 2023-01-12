@@ -61,4 +61,8 @@ You can also use `conda env remove -n titanic-env` to delete the kernel called `
 
 It is recommended that you remove any conda environments that you are not currently needing. 
 
+## Inventory of folders ##
 
+| Folder | Purpose |
+| ------ | ------- |
+| d2l | How to install and run the Dive into Deep Learning course material |
