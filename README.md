@@ -66,3 +66,4 @@ It is recommended that you remove any conda environments that you are not curren
 | Folder | Purpose |
 | ------ | ------- |
 | d2l | How to install and run the Dive into Deep Learning course material |
+| Perceptron | How to create a Neural Network to learn hand-written digits |
