@@ -19,7 +19,7 @@ NOTE: This Repo is currently "work in progress"
 Amazon SageMaker Studio Lab ('SMSL') should be thought of as an independent service, compared with other AWS Services such as S3, SageMaker, EC2 etc. You do not need to have an AWS Account in order to use SMSL.
 
 1. SMSL is a free service. It requires separate username (email address) and password. Users request approval for a new account, which is typically approved in a few days. 
-2. SMSL enables each user to run a Jupyter Lab Notebook instance for up to 12 hours. These can be either CPU- or GPU- types. After 12 hours, you can shut down that instance and restart it. 
+2. SMSL enables each user to run a Jupyter Lab Notebook instance for up to 4 hours. These can be either CPU- or GPU- types. After this time, you can shut down that instance and restart it. 
 3. It is not directly possible to connect to AWS Services such as S3. (You can call all AWS services from within SMSL but you need to have a key and secret key combination in order to do so. These services are then chargeable. )
 4. There are no separate APIs for Training or Deployment.
 5. All training and inferencing is done directly on the Notebook instance (rather than making API calls to SageMaker).
