@@ -1,0 +1,13 @@
+name: perceptron-env
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - pip
+    - setuptools
+    - wheel
+    - opencv-contrib-python
+    - pandas
+    - matplotlib
+    - numpy
+    - mxnet
